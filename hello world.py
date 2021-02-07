@@ -1,4 +1,2 @@
-print("hello world")
-print("this is awesome")
-print("I will always do good work")
-print("Great Job!")
+for i in range(20):
+    print(i)
